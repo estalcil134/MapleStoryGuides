@@ -59,6 +59,7 @@ ul{
 	margin-top: 10px;
 }
 .footer p{
+	padding-left: 0;
 	margin: 0;
 }
 .footer a:hover{
